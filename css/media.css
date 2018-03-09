@@ -1,0 +1,262 @@
+@media screen and (max-width: 1200px) {
+.container {
+	width: 960px;
+}
+.merit__text {
+	margin-left: 6px;
+}
+.test {
+	margin-left: 35px;
+}
+}	
+@media screen and (max-width: 992px) {
+.container {
+	width: 90%;
+	margin: 0 auto;
+}
+.practice {
+	flex-direction: column;
+	position: relative;
+}
+.rhombus1 {
+	width: 50px;
+    height: 50px;
+    line-height: 50px;
+    margin-right: 280px;
+    padding: 3px;
+    margin-bottom: 70px;
+}
+.rhombus2 {
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+.rhombus2__numeral {
+	padding: 0;
+}
+.merit__text {
+	font-size: 10px;
+	margin-left: -22px;
+	margin-right: 20px;
+	position: absolute;
+}
+.merit__text:nth-child(3n + 1) {
+	top: 40px;
+	left: -10px;
+}
+.merit__text:nth-child(3n + 2) {
+	top: 155px;
+	left: -9px;
+}
+.merit__text:nth-child(3n + 3) {
+	top: 275px;
+	left: -8px;
+}
+.test {
+	margin-left: 5px;
+}
+.merit-communication {
+	margin-top: 94px;
+}
+.desc__text {
+	font-size: 20px;
+}
+.other {
+	flex-direction: column;
+}
+.circle {
+	height: 64px;
+}
+.circle1__text {
+	margin-right: 40px;
+}
+.write {
+	margin-top: 20px;
+}
+.works__item {
+	height: 210px;
+}
+.future {
+	padding: 50px 0;
+}
+.works__details {
+	padding-top: 86px;
+}
+}
+@media screen and (max-width: 768px) {
+.container {
+	width: 540px;	
+}
+.logo {
+	font-size: 16px;
+}
+.menu {
+	display: none;
+}
+.mail {
+	font-size: 16px;
+}
+.practice {
+	flex-direction: column;
+}
+.rhombus1 {
+	margin-bottom: 70px;
+	margin-right: 153px;
+}
+.merit-communication {
+	margin-top: 45px;
+}
+.merit__text:nth-child(3n + 1) {
+	left: 1px;
+}
+.merit__text:nth-child(3n + 2) {
+	left: 3px;
+}
+.merit__text:nth-child(3n + 3) {
+	left: 3px;
+}
+.other {
+	flex-direction: column;
+}
+.write {
+	flex-wrap: wrap;
+	margin-top: 30px;
+}
+.arrow {
+	margin: 150px auto;
+}
+.desc__text {
+	width: 250px;
+	font-size: 17px;
+}
+.value {
+	flex-wrap: wrap;
+}
+.circle {
+	height: 60px;
+	line-height: 4.5;
+}
+.circle1:nth-child(1) {
+	margin-bottom: 40px;
+}
+.circle1__text {
+	margin-right: 80px;
+}
+.circle3 {
+	margin-right: 139px;
+}
+.circle__write {
+	margin-top: 20px;
+}
+.works {
+	flex-direction: column;
+	align-items: center;
+}
+.works__item {
+	height: 240px;
+	margin: 15px 0;
+}
+.works__details {
+	padding-top: 50px;
+}
+.works__title {
+	font-size: 12px;
+}
+.future {
+	text-align: center;
+}
+}
+@media screen and (max-width: 576px) {
+.container {
+	width: 90%;
+}
+.head-item {
+	
+}
+.menu {
+	display: none;
+}
+.arrow {
+	margin: 30px auto;
+}
+.description {
+	flex-direction: column;
+}
+.merit_list {
+	margin: 0;
+}
+.merit-communication {
+	text-align: center;
+}
+.about__title {
+	text-align: center;
+}
+.write {
+	flex-direction: column;
+	padding-left: 20px;
+}
+.desc__text {
+	width: 295px;
+}
+.practice {
+	margin: 0;
+	position: relative;
+}
+.merit__title {
+	text-align: center;
+}
+.merit__text:nth-child(3n + 1) {
+	left: 103px;
+}
+.merit__text:nth-child(3n + 2) {
+	left: 103px;
+}
+.merit__text:nth-child(3n + 3) {
+	left: 103px;
+}
+.rhombus1 {
+	margin-bottom: 70px;
+	margin-right: 153px;
+}
+.merit-communication {
+	margin-top: 45px;
+}
+.circle {
+	width: 60px;
+}
+.circle1 {
+	margin-right: 0;
+}
+.circle1:nth-child(1) {
+	margin-bottom: 0;
+}
+.circle__write {
+	margin-top: 20px;
+}
+.circle1__text {
+	margin-right: 0px;
+}
+.merit__text {
+	position: absolute;
+	left: -10px;
+}
+.value {
+	flex-direction: column;
+    align-items: center;
+}
+.other {
+	display: block;
+}
+.works__title {
+	font-size: 10px;
+}
+.scills__title {
+	text-align: center;
+}
+.title {
+	text-align: center;
+}
+}
+
